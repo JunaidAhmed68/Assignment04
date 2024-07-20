@@ -155,7 +155,7 @@ hr{
 }
 
 
-@media screen and (max-width: 876px) {
+@media screen and (min-width: 1023px) {
   .right_div {
     margin: 0;
   }
