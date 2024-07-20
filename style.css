@@ -179,4 +179,7 @@ hr{
   .left_div h2 {
     font-size: 20px;
   }
+   hr{
+    width: 230px;
+  }
 }
